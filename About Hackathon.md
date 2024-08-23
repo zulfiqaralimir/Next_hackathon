@@ -1,3 +1,5 @@
+# https://lablab.ai/event/next2-edge-runners
+
 Friday, August 16 2024 - 9:00 PM Asia/Karachi
 Build Your AI Startup #2: Edge Runners
 Join the Hackathon and Build Your AI Startup in 7 Days!
