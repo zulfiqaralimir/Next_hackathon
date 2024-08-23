@@ -1,4 +1,8 @@
-The code in the image is a Python function that utilizes the Groq API to generate synthetic data based on a given prompt. Here's a breakdown of the code's key components:
+# Generating Synthetic Data base on Prompt
+
+The code is a Python function that utilizes the Groq API to generate synthetic data based on a given prompt. 
+
+Here's a breakdown of the code's key components:
 
 **Import necessary libraries:**
 
@@ -59,4 +63,6 @@ This code iterates over the streamed response from the Groq API and collects the
 
 Finally, the function returns the collected synthetic data.
 
-The error message you mentioned ("'ChoiceDelta' object has no attribute 'get'") indicates that there might be an issue with the Groq API response format or the way the content is being extracted. It would be helpful to inspect the actual response from the Groq API to determine the root cause of the error.
+The error message you mentioned ("'ChoiceDelta' object has no attribute 'get'") indicates that there might be an issue with the Groq API response format or the way the content is being extracted. 
+
+It would be helpful to inspect the actual response from the Groq API to determine the root cause of the error.
